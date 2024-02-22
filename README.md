@@ -8,7 +8,7 @@
 
 # TIC-TAC-TOE
     
-    # How to play
+    # How to play this game (Iam Giving short brief about Game rules which user should follow this rules )
     
 * Players take turns entering their moves by specifying the row and column numbers.
 * The game ends when one player completes a row, column, or diagonal with their symbol (X or O), or when the board is full.
